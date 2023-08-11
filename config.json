@@ -1,0 +1,21 @@
+{
+    "DnsArr": [
+        {
+            "User": "root",
+            "Addr": "127.0.0.1",
+            "AuthMethod": "password",
+            "Password": "f7fe1c!"
+        },
+        {
+            "User": "root",
+            "Addr": "172.18.0.2",
+            "AuthMethod": "password",
+            "Password": ""
+        },
+        {
+            "User": "root",
+            "Addr": "172.18.0.5",
+            "AuthMethod": "password"
+        }
+    ]
+}
